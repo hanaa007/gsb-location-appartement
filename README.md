@@ -1,0 +1,1 @@
+# gsb-location-appartement
